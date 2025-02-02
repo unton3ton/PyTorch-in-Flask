@@ -30,8 +30,10 @@ print(resp.json())
  
 * [Deploying PyTorch in Python via a REST API with Flask](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
  
+<!---
 [![ams2.jpg](https://i.postimg.cc/F15jMCyX/ams2.jpg)](https://postimg.cc/wR2yJV4w)
  
 ![](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1y4v0B.img?w=612&h=437&m=6)
+--->
 
 ![](https://raw.githubusercontent.com/unton3ton/PyTorch-in-Flask/refs/heads/main/kMN1JmPeofY.jpg)
